@@ -46,7 +46,7 @@ R · Google Colab
 
 ## Collaboration
 
-This project was completed collaboratively by ***Xiaoyi Xu & Jiaxuan Xu***.  
+This project was completed collaboratively by **Xiaoyi Xu & Jiaxuan Xu**.  
 Most of the coding and implementation work was completed by **Xiaoyi Xu**.
 
 ## Note
