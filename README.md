@@ -44,14 +44,6 @@ Singular Value Decomposition · Low-Rank Approximation · Word Embeddings · Cos
 
 R · Google Colab
 
-## Repository Structure
-
-```text
-├── notebooks/
-│   ├── word_embeddings.ipynb
-│   └── image_compression.ipynb
-└── README.md
-
 ## Collaboration
 
 This project was completed collaboratively by ***Xiaoyi Xu & Jiaxuan Xu***.  
@@ -60,3 +52,12 @@ Most of the coding and implementation work was completed by **Xiaoyi Xu**.
 ## Note
 
 The original assignment instructions and full submitted report are not included because the course restricts redistribution of instructor-generated materials, and the submitted report closely follows the original assignment structure. This repository therefore contains only a portfolio-oriented summary and selected notebooks.
+
+
+## Repository Structure
+
+```text
+├── notebooks/
+│   ├── word_embeddings.ipynb
+│   └── image_compression.ipynb
+└── README.md
